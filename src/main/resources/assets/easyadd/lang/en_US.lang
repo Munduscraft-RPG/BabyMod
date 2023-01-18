@@ -1,0 +1,6 @@
+// Item Groups (Creative Inventory Tabs)
+itemGroup.tabEasyAdd=Easy Add
+
+// Items
+item.mario.name=Mario
+item.supermushroom.name=Super Mushroom
